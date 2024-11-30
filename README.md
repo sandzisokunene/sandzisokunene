@@ -1,4 +1,4 @@
-- 👋 Hey there, I'm @sandzisokunene!
+- 👋 Hey there, I'm @codesandz!
 - 👀 I'm deeply fascinated by data.
 - 🌱 Currently immersing myself in the world of data science.
 - 💞️ Open to collaborating on machine learning projects.
